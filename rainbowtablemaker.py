@@ -1,4 +1,4 @@
-import Matthew_Hall_cui_des # Changed my des function to take an input to add padding or not
+import cui_des # Changed my des function to take an input to add padding or not
 import json
 from itertools import product # for combinations
 
